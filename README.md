@@ -4,7 +4,7 @@ This was a project built for a client with modifications.
 
 **Link to project:** https://fadeworksbarbershop.netlify.app/
 
-![alt tag]()
+![alt tag](https://github.com/MikeJakuszewski/Fadeworks-Barbershop-Website/blob/main/Fadeworks-Gif.gif)
 
 ## How It's Made:
 
